@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="2324802010312_LamThanhNien_ECommerce/2324802010312_LamThanhNien_ECommerce.csproj" />
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+</Solution>

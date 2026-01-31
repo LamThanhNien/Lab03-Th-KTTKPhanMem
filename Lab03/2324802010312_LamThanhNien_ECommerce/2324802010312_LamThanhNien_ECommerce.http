@@ -1,0 +1,6 @@
+@_2324802010312_LamThanhNien_ECommerce_HostAddress = http://localhost:5082
+
+GET {{_2324802010312_LamThanhNien_ECommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
